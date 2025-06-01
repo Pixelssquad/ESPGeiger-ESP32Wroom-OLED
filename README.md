@@ -9,11 +9,14 @@ Firmware ready to flash with Flash download Tool (included) (see image for param
 
 The button is optional, but if connected it can switch between different screens with different data
 
-From the original project I only modified some files (they are in the repo).
+#From the original project I only modified some files (they are in the repo).
 
-\platformio.ini
+\platformio.ini 
+
 \environments.ini
+
 ESPGeiger\src\PushButton\PushButton.h
+
 ESPGeiger\src\OLEDDisplay\OLEDDisplay.h
 
 
