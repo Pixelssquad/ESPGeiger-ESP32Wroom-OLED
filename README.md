@@ -5,6 +5,9 @@
 Firmware ready to flash for a generic  ESP32 Wroom and similar board
 Thanks to the  Authors of the original project: https://github.com/steadramon/ESPGeiger
 
+![IMG20250601231513](https://github.com/user-attachments/assets/a5cbd822-2fa0-4348-996e-83790cf68925)
+![CAJOE ESP32ù](https://github.com/user-attachments/assets/d87ccff3-f1bf-4804-affd-62314f100941)
+
 
 
 
