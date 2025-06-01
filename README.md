@@ -9,6 +9,14 @@ Firmware ready to flash with Flash download Tool (included) (see image for param
 
 The button is optional, but if connected it can switch between different screens with different data
 
+From the original project I only modified some files (they are in the repo).
+
+\platformio.ini
+\environments.ini
+ESPGeiger\src\PushButton\PushButton.h
+ESPGeiger\src\OLEDDisplay\OLEDDisplay.h
+
+
 ![IMG20250601231513](https://github.com/user-attachments/assets/a5cbd822-2fa0-4348-996e-83790cf68925)
 ![CAJOE ESP32ù](https://github.com/user-attachments/assets/d87ccff3-f1bf-4804-affd-62314f100941)
 ![2025-06-01_235908](https://github.com/user-attachments/assets/138cd915-ccc5-493c-9a4d-870b47e13c46)
