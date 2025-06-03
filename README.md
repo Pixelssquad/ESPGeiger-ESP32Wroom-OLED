@@ -25,7 +25,7 @@ ESPGeiger\src\OLEDDisplay\OLEDDisplay.h
 ![2025-06-01_235908](https://github.com/user-attachments/assets/138cd915-ccc5-493c-9a4d-870b47e13c46)
 
 
-https://counter1.optistats.ovh/private/freecounterstat.php?c=seamg16sflwcgeujwkzsddcawgq1ndhy
+![counter](https://s01.flagcounter.com/count2/pk58/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/)
 
 ## Thanks 🙏
 Thanks for supporting libraries goes to:
