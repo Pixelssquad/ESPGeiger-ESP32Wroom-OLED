@@ -23,9 +23,10 @@ ESPGeiger\src\OLEDDisplay\OLEDDisplay.h
 ![IMG20250601231513](https://github.com/user-attachments/assets/a5cbd822-2fa0-4348-996e-83790cf68925)
 ![CAJOE ESP32ù](https://github.com/user-attachments/assets/d87ccff3-f1bf-4804-affd-62314f100941)
 ![2025-06-01_235908](https://github.com/user-attachments/assets/138cd915-ccc5-493c-9a4d-870b47e13c46)
-![Alt text]([https://example.com/path/to/image.png](https://s01.flagcounter.com/count2/pk58/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/))
 
-![IMG]https://s01.flagcounter.com/count2/pk58/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/[/IMG]
+![counter](https://www.counter12.com/img-bD8Z959Aa6xzxAZC-76.gif)
+
+
 ## Thanks 🙏
 Thanks for supporting libraries goes to:
 - https://github.com/tzapu/WiFiManager
